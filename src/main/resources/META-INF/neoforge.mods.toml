@@ -6,7 +6,7 @@ license = "MIT"
 modId = "localchat"
 version = "1.0.0"
 displayName = "Local Chat"
-description = "Локальный чат по радиусу. Глобальный чат через префикс !"
+description = "Командный чат. Глобальный чат через префикс !"
 
 [[dependencies.localchat]]
 modId = "neoforge"
